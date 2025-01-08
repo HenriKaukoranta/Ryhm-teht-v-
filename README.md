@@ -1,6 +1,7 @@
-# **ryhmätehtävä**
 
-Marina
+# Ryhmätehtävä
+
+## Marina
 | Jäsenen numero | Nimi       | 
 | :---:          | :---:      |
 | 1              | Marina     |        
@@ -9,3 +10,4 @@ Marina
 | 4              | Joonatan   | 	
 
 ![picture](Marina-pic.jpg)
+
