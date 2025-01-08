@@ -6,6 +6,7 @@ ryhmätehtävä
 
 Marina
 | Jäsenen numero | Nimi       | 
+| :---:          | :---:      |
 | 1              | Marina     |        
 | 2              | Henri      |    
 | 3              | Aleksi     | 	
