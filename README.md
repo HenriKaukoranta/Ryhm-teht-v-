@@ -17,3 +17,20 @@ Tässä on kuva punaisesta crosshairista jolla on musta outline.
 ![crosshair](https://github.com/HenriKaukoranta/Ryhm-teht-v-/blob/aleksi-8125/crosshair.png?raw=true)
 
 ---
+
+# **ryhmätehtävä**
+## taulukko
+
+| Ryhmä | 2 |
+|---------|---------|
+| Henri |
+| Marina |
+| Aleksi |
+| Joonatan |
+![github](https://github.com/user-attachments/assets/cd883d85-b945-44d1-a919-693da1551ad3)
+---
+
+Tässä on kuva punaisesta crosshairista jolla on musta outline.
+![crosshair](https://github.com/HenriKaukoranta/Ryhm-teht-v-/blob/aleksi-8125/crosshair.png?raw=true)
+
+---
